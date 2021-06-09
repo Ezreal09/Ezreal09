@@ -13,14 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=Ezreal09&show_icons=true)
+### Hi there 👋
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=FontEndArt&theme=flat&column=6) -->
 
-一条鱼一直不开心，它游到老鱼面前说：“我要找到他们称之为海洋的东西。”
-
-“海洋？”老鱼说，“你现在就在海洋里啊。”
-
-“这儿？”小鱼说，“我只是在水里而已，我想要的是海洋。”
-
-![image](https://user-images.githubusercontent.com/19547121/118633600-398f3a80-b804-11eb-8d72-5e36dc7acc77.png)
+![image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.xuexila.com%2Fallimg%2F1612%2F848-161224160T8-51.jpg&refer=http%3A%2F%2Fuploads.xuexila.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625817353&t=7329a05117af91d67817355a1b9f90be)
